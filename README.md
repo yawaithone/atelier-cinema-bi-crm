@@ -43,8 +43,8 @@ Mockaroo · Excel (validation) · data modelling (ERD, data dictionary)
 ```
 .
 ├── report/                 # project report (cover sheet & confidential pages removed)
-├── slides/                 # presentation deck (PDF)
-├── images/                 # dashboard and Salesforce flow screenshots
+├── presentation powerpoint/                 # presentation deck (PDF)
+├── images/                 # 4 dashboard screenshots
 └── README.md
 ```
 
